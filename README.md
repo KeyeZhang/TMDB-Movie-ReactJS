@@ -19,10 +19,10 @@ Features:
   -  **A detail view**: When an item in the search view or the gallery view is clicked, the app displays the different attributes of the selected item. Also, this view has previous and next buttons that lets the user cycle through the list of objects.
   
  Other tools:
-  - Use <code>react-router-dom</code> for routing.
-  - Use <code>Axios</code> for API calls.
-  - Use <code>SemanticUI</code> for frontend design
-  - Use <code>PropTypes</code> for relevant components. https://facebook.github.io/react/docs/typechecking-with-proptypes.html
+  - <code>react-router-dom</code> for routing.
+  - <code>Axios</code> for API calls.
+  - <code>SemanticUI</code> for frontend design
+  - <code>PropTypes</code> for relevant components. https://facebook.github.io/react/docs/typechecking-with-proptypes.html
 
 
 ### Environment Setup Guide
