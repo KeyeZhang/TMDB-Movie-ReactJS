@@ -27,11 +27,10 @@ Features:
 
 ### Environment Setup Guide
 1. Clone the repository:
-`git clone https://github.com/uiuc-web-programming/mp2_starter_17.git mp2`, then `cd mp2`
+`git clone https://github.com/KeyeZhang/TMDB-Movie-ReactJS.git`, then `cd TMDB-Movie-ReactJS-master`
 2. Install dependencies:
 `npm install`
 3. Run the dev server:
 `npm run dev`
-4. Open a browser and go to `http://localhost:8080/` to view your page. You should see "Welcome to MP2!".
-5. Open up `source/index.js` and `source/html/index.html` and read the comments in those files to get an idea of how to start. *We will not answer questions that are already answered by the comments there.*
+4. Open a browser and go to `http://localhost:8080/` to view your page.
 
